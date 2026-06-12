@@ -18,4 +18,4 @@ Estudante de Engenharia de Software, com foco em desenvolvimento e construção 
 Busco uma oportunidade de estágio em desenvolvimento para aprender na prática, contribuir com o time e continuar evoluindo tecnicamente.
 
 ## Contato
-- LinkedIn: [https://www.linkedin.com/in/felipe-hendrich-fernandes-garcia-786559252/]
+- LinkedIn: [https://www.linkedin.com/in/felipe-hendrich-dev/]
