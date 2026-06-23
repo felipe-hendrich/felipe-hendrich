@@ -7,7 +7,7 @@ Sou estudante de Bacharelado em Engenharia de Software e estou construindo minha
 * HTML
 * CSS
 * Responsividade
-* JavaScript básico
+* JavaScript básico — validações de formulário e feedback ao usuário
 * Git
 * GitHub
 * Lógica de programação
@@ -24,7 +24,7 @@ Na faculdade, estou estudando desenvolvimento front-end, linguagem C e fundament
 
 Também faço a formação Fullstack da Rocketseat para continuar ampliando meus conhecimentos em desenvolvimento de software.
 
-## Google Cloud
+## [Google Cloud](https://www.credly.com/users/felipe-hendrich/badges/credly)
 
 Concluí a formação Google Cloud Computing Foundations, com contato introdutório com:
 
@@ -36,7 +36,7 @@ Concluí a formação Google Cloud Computing Foundations, com contato introdutó
 
 ## Projetos em destaque
 
-### Formulário de Convite
+### [Formulário de Convite](https://github.com/felipe-hendrich/projeto-formulario-convite)
 
 * Formulário responsivo desenvolvido com HTML, CSS e JavaScript
 * Componentes personalizados
@@ -44,7 +44,7 @@ Concluí a formação Google Cloud Computing Foundations, com contato introdutó
 * Mensagens de feedback ao usuário
 * Adaptação para diferentes tamanhos de tela
 
-### Formulário de Matrícula Escolar
+### [Formulário de Matrícula Escolar](https://github.com/felipe-hendrich/projeto-formulario-de-matricula)
 
 * Interface responsiva desenvolvida com HTML e CSS
 * Uso de formulários
@@ -52,7 +52,7 @@ Concluí a formação Google Cloud Computing Foundations, com contato introdutó
 * Media queries
 * Organização modular dos estilos
 
-### Landing Page Zingen
+### [Landing Page Zingen](https://github.com/felipe-hendrich/landingPage-zingen)
 
 * Landing page responsiva
 * Estruturação com HTML semântico
@@ -61,11 +61,9 @@ Concluí a formação Google Cloud Computing Foundations, com contato introdutó
 
 ## Atualmente
 
-* Aprofundando meus conhecimentos em JavaScript
-* Praticando lógica de programação
-* Estudando estruturas de dados
-* Desenvolvendo projetos para fortalecer meu portfólio
-* Buscando minha primeira oportunidade de estágio em Engenharia de Software ou Desenvolvimento de Software
+- Aprofundando meus conhecimentos em JavaScript
+- Estudando lógica de programação e estruturas de dados
+- Buscando minha primeira oportunidade de estágio em Engenharia de Software ou Desenvolvimento de Software
 
 ## Contato
 
