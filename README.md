@@ -13,6 +13,7 @@ Tenho desenvolvido projetos com foco em front-end, lógica de programação e fu
 - Manipulação do DOM
 - Eventos e interações
 - Validação de formulários
+- Criação dinâmica de elementos
 - Arrays e estruturas de repetição
 - Git
 - GitHub
@@ -42,6 +43,7 @@ Em JavaScript, já trabalhei com:
 - estruturas de repetição
 - geração de números aleatórios
 - criação dinâmica de elementos
+- controle de estados da interface
 - controle de animações e interações
 
 Na faculdade, venho estudando diferentes fundamentos da Engenharia de Software, incluindo:
@@ -90,6 +92,26 @@ Principais recursos:
 
 [Projeto online](https://felipe-hendrich.github.io/sorteador-numeros/)
 
+### [Lista de Compras](https://github.com/felipe-hendrich/projeto-lista-de-compras)
+
+Aplicação web responsiva para adicionar, selecionar, remover e organizar itens de uma lista de compras.
+
+Principais recursos:
+
+- adição dinâmica de itens
+- validação para impedir itens vazios
+- criação de elementos com JavaScript
+- manipulação do DOM
+- checkbox personalizado com estados de hover e seleção
+- remoção individual de itens
+- alerta visual após a remoção
+- botão para limpar toda a lista
+- controle da exibição do botão de limpeza de acordo com o estado da lista
+- retorno automático do foco ao campo de entrada
+- layout responsivo
+
+[Projeto online](https://felipe-hendrich.github.io/projeto-lista-de-compras/)
+
 ### [Hendrich Tráfego Digital](https://github.com/felipe-hendrich/projeto-hendrich-trafego-digital)
 
 Website institucional responsivo desenvolvido para apresentar serviços de tráfego pago, planos, projetos realizados e canais de contato.
@@ -108,6 +130,43 @@ Principais recursos:
 
 [Projeto online](https://felipe-hendrich.github.io/projeto-hendrich-trafego-digital/)
 
+### [Formulário de Convite](https://github.com/felipe-hendrich/projeto-formulario-convite)
+
+Formulário responsivo desenvolvido para praticar construção de interfaces e validações.
+
+Principais recursos:
+
+- HTML, CSS e JavaScript
+- componentes personalizados
+- validação de campos
+- mensagens de feedback ao usuário
+- adaptação para diferentes tamanhos de tela
+
+### [Formulário de Matrícula Escolar](https://github.com/felipe-hendrich/projeto-formulario-de-matricula)
+
+Interface de formulário responsiva desenvolvida para praticar estruturação e organização de layouts.
+
+Principais recursos:
+
+- HTML e CSS
+- formulários
+- Grid
+- Flexbox
+- media queries
+- organização modular dos estilos
+
+### [Landing Page Zingen](https://github.com/felipe-hendrich/landingPage-zingen)
+
+Landing page responsiva desenvolvida para praticar estruturação semântica e adaptação de layouts para diferentes dispositivos.
+
+Principais recursos:
+
+- HTML semântico
+- CSS
+- responsividade
+- organização visual
+- adaptação para desktop, tablet e mobile
+
 ### [DevLinks](https://github.com/felipe-hendrich/devlinks-portfolio)
 
 Página de links personalizada desenvolvida para praticar fundamentos do desenvolvimento web.
@@ -123,29 +182,6 @@ Principais recursos:
 - versionamento com Git e GitHub
 
 [Projeto online](https://felipe-hendrich.github.io/devlinks-portfolio/)
-
-### [Formulário de Convite](https://github.com/felipe-hendrich/projeto-formulario-convite)
-
-- formulário responsivo desenvolvido com HTML, CSS e JavaScript
-- componentes personalizados
-- validação de campos
-- mensagens de feedback ao usuário
-- adaptação para diferentes tamanhos de tela
-
-### [Formulário de Matrícula Escolar](https://github.com/felipe-hendrich/projeto-formulario-de-matricula)
-
-- interface responsiva desenvolvida com HTML e CSS
-- uso de formulários
-- Grid e Flexbox
-- media queries
-- organização modular dos estilos
-
-### [Landing Page Zingen](https://github.com/felipe-hendrich/landingPage-zingen)
-
-- landing page responsiva
-- estruturação com HTML semântico
-- organização visual com CSS
-- adaptação para desktop, tablet e mobile
 
 ## Atualmente
 
