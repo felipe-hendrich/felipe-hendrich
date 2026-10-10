@@ -1,8 +1,10 @@
 # Felipe Hendrich
 
-Sou estudante de Bacharelado em Engenharia de Software e desenvolvedor em formação Full Stack, construindo minha base técnica por meio da faculdade, de cursos complementares e de projetos práticos.
+Sou estudante de Bacharelado em Engenharia de Software e desenvolvedor Full Stack em formação, construindo minha base técnica por meio da faculdade, de cursos complementares e de projetos práticos.
 
-Tenho desenvolvido projetos com foco em desenvolvimento Full Stack, lógica de programação e fundamentos de Engenharia de Software, buscando consolidar meus conhecimentos e me preparar para minha primeira oportunidade profissional na área de tecnologia.
+Tenho desenvolvido projetos envolvendo front-end, lógica de programação e fundamentos de Engenharia de Software, enquanto avanço em back-end, bancos de dados e no desenvolvimento Full Stack.
+
+Meu objetivo é consolidar esses conhecimentos e conquistar minha primeira oportunidade profissional em Engenharia de Software ou Desenvolvimento de Software.
 
 ## Tecnologias e conhecimentos
 
@@ -69,7 +71,7 @@ Concluí a formação Google Cloud Computing Foundations, com contato introdutó
 - BigQuery
 - preparação de dados
 
-- [Visualizar credenciais no Credly](https://www.credly.com/users/felipe-hendrich/badges/credly)
+[Visualizar credenciais no Credly](https://www.credly.com/users/felipe-hendrich/badges/credly)
 
 ## Projetos em destaque
 
@@ -189,7 +191,7 @@ Principais recursos:
 - estudando Programação Orientada a Objetos
 - estudando Engenharia de Requisitos
 - desenvolvendo projetos práticos para consolidar os conhecimentos
-- - avançando na formação Full Stack, atualmente na metade do curso
+- avançando na formação Full Stack da Rocketseat, atualmente na metade do curso
 - buscando minha primeira oportunidade de estágio ou emprego em Engenharia de Software ou Desenvolvimento de Software
 
 ## Contato
